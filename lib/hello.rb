@@ -1,4 +1,3 @@
-
 def hello_t(array)
   if block_given?
     i = 0
@@ -13,7 +12,6 @@ def hello_t(array)
     puts "Hey! No block was given!"
   end
 end
-
 
 
 
